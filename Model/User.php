@@ -1,8 +1,4 @@
 <?php 
-/**
- * model
- */
-
 namespace Model;
 
 class User 

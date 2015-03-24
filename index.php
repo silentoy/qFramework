@@ -1,8 +1,4 @@
 <?php
-use Model;
-/**
- * 统一入口文件
- */
 
 define('BASEDIR', __DIR__);
 

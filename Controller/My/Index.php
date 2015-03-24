@@ -1,8 +1,4 @@
 <?php
-/**
- * Controller
- */
-
 namespace Controller\My;
 
 class Index 
